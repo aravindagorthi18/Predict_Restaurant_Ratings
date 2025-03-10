@@ -38,7 +38,7 @@ We made sense of our results by:
 
 In essence, we built a system that can predict a restaurant's rating based on its characteristics, and we discovered which factors matter most for restaurant success.
 
-TASK 2:
+TASK 2:Predicting Restaurant Ratings
 Here's a brief summary of what we did to build a machine learning model for predicting restaurant ratings:
 
 1. **Data Exploration**: We started by loading the dataset and examining its structure, including column names and basic statistics, to understand what we're working with.
